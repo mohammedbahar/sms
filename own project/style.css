@@ -1,0 +1,170 @@
+
+	.list{
+	background-color:darkgrey;
+}
+ .list h1{
+   text-align: center;
+   text-transform:uppercase ;
+   background-color:darkred;
+   color:white;
+   font-size: 40px;
+   height:40px;
+   margin:auto;
+   padding: 15px;
+}
+.list ul{
+	background-color: black;
+	list-decoration:none;
+	padding: 20px;
+}
+.list li{
+	display:inline;
+	padding: 15px;
+	text-align:center;
+	margin: auto;
+}
+.list a{
+	text-decoration: none;
+	padding-right: 15px;
+	font-size: 18px;
+	padding-top: 30px;
+}
+.list  a:hover{
+	color:floralwhite;
+}
+.list  a:visited{
+	color:whitesmoke;
+}
+.list a:active{
+	color:greenyellow;
+}
+.list h2{
+	background-image: url('photo34jpg.jpg');
+	width:100%;
+	height: 130px;
+	text-align: center;
+	font-style: italic;
+	letter-spacing: 2px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.list-1 small{
+	color: black;
+	text-transform: uppercase;
+	font-style: italic;
+}
+.list-1{
+	float:left;
+	width:22%;
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 30px;
+	
+}
+.list-1 ul{
+	list-style-type: none;
+}
+.list-1 li{
+	font-style: italic;
+	border-left: 20px;
+	color: white;
+	text-align: center;
+	letter-spacing:2px;
+	padding: 10px 20px 32px;
+	background-color:royalblue;
+}
+.para{
+	float:center;
+	text-align: center;
+	font-style: italic;
+	font-size: 18px;
+	padding-top: 40px;
+	letter-spacing: 2px;
+	background-position: center;
+	background-color: skyblue;
+	background-image: url('shop.jpg');
+	background-repeat: no-repeat;
+	padding-bottom: 10px;
+}
+.para header{
+	text-align: center;
+	font-weight: bolder;
+
+}
+.para1 header{
+	font-weight: bolder;
+}
+.para1{
+	padding-bottom: 10px;
+	float:left;
+	padding-left: 50px;
+	width:30%;
+	padding-top: 5px;
+	letter-spacing: 2px;
+}
+.para2{
+	padding: 10px;
+	padding-top: 30px;
+	letter-spacing: 2px;
+	float: right;
+	width:41%;
+}
+.detials header{
+	text-align: right;
+	color: white;
+	background-color: black;
+	margin:auto;
+	float:left;
+    width:30%;
+	font-weight: bolder;
+	font-size: 25px;
+	padding: 20px;
+}
+.detials ul{
+	list-style-type: none;
+}
+.detials li{
+	text-align: center;
+	background-color: hotpink;
+	font-style: italic;
+	padding:8px;
+	float:left;
+	width:60%;
+
+}
+.img{
+	float:left;
+	width:75%;
+}
+.p3{
+	float:right;
+	width:35%;
+	padding-top: 15px;
+}
+.p1{
+	float:right;
+	width=100%;
+	padding: 15px;
+}
+.p2{
+	float:right;
+	width:30%;
+	padding-left: 18px;
+	padding-top: 10px;
+}
+.b1{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 18px;
+    width:100%;
+    float: center;
+
+}
+.foot{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding:5px;
+}
